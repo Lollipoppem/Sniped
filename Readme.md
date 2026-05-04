@@ -9,7 +9,7 @@
 
 # SNIPED v2.4 — The Headshot Update
 
-**Automatic kill-clip extractor for Roblox Rivals OBS recordings**
+**Automatic kill-clip extractor for Roblox Rivals recordings**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)](https://www.microsoft.com/windows)
@@ -18,7 +18,7 @@
 
 ---
 
-Drop your OBS recordings in a folder. Double-click. Come back to a `clips` folder full of your kills — automatically cut, named, and ready to edit.
+Drop your recordings in a folder. Double-click. Come back to a `clips` folder full of your kills — automatically cut, named, and ready to edit.
 
 No manual scrubbing. No missed moments. Just highlights.
 
@@ -71,4 +71,4 @@ CLIP_BEFORE         = 9                # seconds before the kill
 CLIP_AFTER          = 2                # seconds after the kill
 ```
 
-For the full setup guide see [READ_ME.md](READ_ME.md).
+For the full setup guide see [READ_ME2.md](READ_ME2.md).
